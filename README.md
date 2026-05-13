@@ -63,6 +63,4 @@ msbuild BlockchainAssignment.sln /p:Configuration=Debug
 5. Use the read, balance, and validation controls to inspect chain state.
 6. Toggle multi-threaded mining to compare mining performance.
 
-## Notes
 
-This is an educational coursework project. It demonstrates blockchain data structures and security mechanisms locally; it is not intended to be used as a production cryptocurrency or networked blockchain implementation.
